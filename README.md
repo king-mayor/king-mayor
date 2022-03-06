@@ -1,9 +1,9 @@
-- 👋 Hi, I’m O@king-mayor
-- 👀 I’m interested in Front-end development
-- 🌱 I’m currently learning HTML,CSS and Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me
-- This is from my local laptop
+- 👋 Hi, I’m ODEGBARO Mayowa!
+- 👀 I’m interested in Front-end development!
+- 🌱 I’m currently learning HTML,CSS and Javascript.
+- 💞️ I’m looking forward to collaborate on beginner-friendly projects.
+- 📫 
+-
 
 <!---
 king-mayor/king-mayor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
