@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning HTML,CSS and Javascript.
 - 💞️ I’m looking forward to collaborate on beginner-friendly projects.
 - 📫 Feel free to connect!
--
 
 <!---
 king-mayor/king-mayor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
